@@ -6,7 +6,7 @@ Contract deployed on Polygon Mumbai Testnet [0x432E40A747633e672fB48DC0C7450998d
 Minted NFTs are deployed on [Opensea Testnet](https://testnets.opensea.io/collection/unidentified-contract-fveu3ezdrb) 
 ## Features
 
-- ERC1155 smart contrct to mint and transfer Avatar NFTs in Polygon Mumbai Testnet.
+- ERC1155 smart contract to mint and transfer Avatar NFTs in Polygon Mumbai Testnet.
 - Used ethers.js library to interact with smart contracts.
 - Used IPFS to upload images and metadata to upload JSON file ino IPFS.
 
